@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kviz</string>
+    <string name="hello_world">Zdravo!</string>
+    <string name="str_next">Dalje</string>
+    <string name="str_rep">Ponovi</string>
+    <string name="title_activity_result">Rezultat</string>
+
+</resources>
